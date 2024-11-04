@@ -1,0 +1,17 @@
+6
+Location Bulevar
+Path M54 4 5 3
+Intersection Kruzni_tok 4 5
+Location Parking
+Path T4 30 20 4
+Location Kuca
+0 1 
+1 2 
+2 0 4 
+3 2 
+4 3 
+5 
+Kruzni_tok 3
+3 0 10
+1 0 15
+1 4 5

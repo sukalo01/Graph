@@ -1,0 +1,26 @@
+9
+Location Bulevar
+Path M54 4 5 3
+Intersection Kruzni_tok 4 5
+Location Parking
+Path T4 30 20 4
+Location Kuca
+Path Noo 56 45 5
+Intersection Kikiriki 5 5
+Location Opstina
+0 1 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 1 0 
+1 0 0 0 1 0 0 0 0 
+0 0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 
+Kruzni_tok 3
+3 0 10
+1 0 15
+1 4 5
+Kikiriki 2
+1 3 8
+4 3 12

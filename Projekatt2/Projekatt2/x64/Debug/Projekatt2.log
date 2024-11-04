@@ -1,0 +1,16 @@
+﻿  Graph.cpp
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(446,17): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(535,31): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(536,32): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(580,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(630,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(637,31): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(638,32): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(769,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(472,189): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danil\Desktop\Projekatt2\Projekatt2\Graph.cpp(375,84): message : see reference to function template instantiation 'std::vector<int,std::allocator<int>> bellmanFord<int>(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,int,int,std::vector<int,std::allocator<int>> &,std::vector<Node *,std::allocator<Node *>>,std::stack<int,std::deque<int,std::allocator<int>>> &)' being compiled
+  Projekatt2.vcxproj -> C:\Users\danil\Desktop\Projekatt2\x64\Debug\Projekatt2.exe

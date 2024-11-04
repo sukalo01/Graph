@@ -1,0 +1,33 @@
+16
+Location Kuca
+Location Posao
+Location Kafic
+Location Fakultet
+Location Banka
+Location Market
+Path Kozarska 24 60 15
+Path Majevicka 60 80 20
+Path Autoput 100 120 40
+Path Kninska 30 40 7
+Path Patre 14 50 8
+Path Banjalucka 28 50 12
+Path Kralja_Petra 6 10 3
+Path Kozarska 20 40 9
+Path Prvomajska 50 40 8
+Path Jovan_Ducic 32 30 7
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
